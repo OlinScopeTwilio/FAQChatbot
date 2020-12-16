@@ -24,6 +24,17 @@ FAQ Chatbot designed for disaster response organizations using the Twilio Platfo
   
 ### Questions it can answer
 
+What do you know?  
+What trainings have I done?  
+What trainings have I signed up for?  
+Who is the contact for volunteering events?  
+Where can I log the hours I've volunteered?  
+Will transportation be provided to the event?  
+When is my next volunteer shift?  
+Were is the event?  
+How do I sign up for a volunteering event?  
+What do I need to do in preparation for the volunteering event?  
+
 ## Demo
 [![Chatbot Demo Video](https://img.youtube.com/vi/hmyzNLR_-ko/0.jpg)](https://www.youtube.com/watch?v=hmyzNLR_-ko)  
 Go go gadget description!
