@@ -5,6 +5,13 @@ We be us from Olin college of not grammar.
 This project was done as part of a year-long senior capstone class called SCOPE at Olin College of Engineering.
 
 ## The Goal
+
+Volunteers resort to emailing coordinators when they are not able to find the information they need. Lots of volunteers. Repetitive questions. Roadblock for both volunteers and coordinators.  
+  
+A chatbot programmed with answers to general, reoccurring questions from volunteers can offload the burden of crafting individual replies that is placed on coordinators.  
+  
+Twilio's Autopilot platform offers an automated chatbot that can provide answers to tedious volunteer questions immediately and in turn reduces the workload of the coordinators.  
+  
 ![Journey Map](/visuals/ChatbotJourneyMap.png)  
 
 
@@ -14,6 +21,8 @@ This project was done as part of a year-long senior capstone class called SCOPE 
 
 ![Chatbot in Action, pt 2](/visuals/ChatbotInAction2.svg)  
 FAQ Chatbot designed for disaster response organizations using the Twilio Platform. This chatbot is desgined to answer common questions that volunteers have about the organization.
+  
+### Questions it can answer
 
 ## Demo
 [![Chatbot Demo Video](https://img.youtube.com/vi/hmyzNLR_-ko/0.jpg)](https://www.youtube.com/watch?v=hmyzNLR_-ko)  
