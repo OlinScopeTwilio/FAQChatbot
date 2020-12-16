@@ -5,7 +5,7 @@ We be us from Olin college of not grammar.
 This project was done as part of a year-long senior capstone class called SCOPE at Olin College of Engineering.
 
 ## The Goal
-![Journey Map](/visuals/JourneyMaps.png)  
+![Journey Map](/visuals/ChatbotJourneyMap.png)  
 
 
 
