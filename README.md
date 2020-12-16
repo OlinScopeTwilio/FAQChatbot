@@ -1,8 +1,14 @@
 # FAQChatbot
 ## The Team
-We be us from Olin college of not grammar.
+We be us from Olin college of not grammar.  
+  
+This project was done as part of a year-long senior capstone class called SCOPE at Olin College of Engineering.
 
-## The Project
+## The Goal
+
+
+
+## The Chatbot
 ![Chatbot in Action, pt 1](/visuals/ChatbotInAction1.svg)  
 
 ![Chatbot in Action, pt 2](/visuals/ChatbotInAction2.svg)  
@@ -16,3 +22,6 @@ Go go gadget description!
 
 ![Deployment Roadmap](/visuals/DeploymentRoadmap.svg)
 The deployment for this template consists of uploading a JSON file to the Twilio console using the Twilio CLI and Autopilot plugin for the CLI. From this point, deployment activities moved to the Twilio console. In autopilot, 
+
+## More info
+
