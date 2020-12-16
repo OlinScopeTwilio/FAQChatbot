@@ -7,8 +7,8 @@ FAQ Chatbot designed for disaster response organizations using the Twilio Platfo
 
 ## Demo
 *Demo Video here*  
-Description too, please.
+Go go gadget description!
 
 ## Deployment
 *Deployment Graphic here*  
-Go go gadget description.
+The deployment for this template consists of uploading a JSON file to the Twilio console using the Twilio CLI and Autopilot plugin for the CLI. From this point, deployment activities moved to the Twilio console. In autopilot, 
