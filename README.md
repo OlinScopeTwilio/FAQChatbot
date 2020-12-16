@@ -3,6 +3,9 @@
 We be us from Olin college of not grammar.
 
 ## The Project
+![Chatbot in Action, pt 1](/visuals/ChatbotInAction1.svg)  
+
+![Chatbot in Action, pt 2](/visuals/ChatbotInAction2.svg)  
 FAQ Chatbot designed for disaster response organizations using the Twilio Platform. This chatbot is desgined to answer common questions that volunteers have about the organization.
 
 ## Demo
@@ -10,6 +13,6 @@ FAQ Chatbot designed for disaster response organizations using the Twilio Platfo
 Go go gadget description!
 
 ## Deployment
-*Deployment Graphic here*  
+
 ![Deployment Roadmap](/visuals/DeploymentRoadmap.svg)
 The deployment for this template consists of uploading a JSON file to the Twilio console using the Twilio CLI and Autopilot plugin for the CLI. From this point, deployment activities moved to the Twilio console. In autopilot, 
