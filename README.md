@@ -1,8 +1,8 @@
 # FAQChatbot
 ## The Team
-We be us from Olin college of not grammar.  
+We are students from Olin College of Engineering.
   
-This project was done as part of a year-long senior capstone class called SCOPE at Olin College of Engineering.
+This project was done as part of a year-long senior capstone class called SCOPE.
 
 ## The Goal
 
@@ -43,6 +43,9 @@ Go go gadget description!
 
 ![Deployment Roadmap](/visuals/DeploymentRoadmap.svg)
 The deployment for this template consists of uploading a JSON file to the Twilio console using the Twilio CLI and Autopilot plugin for the CLI. From this point, deployment activities moved to the Twilio console. In autopilot, 
+
+## Additional Functions
+The functions for accessing the airtable base will be accessbile here shortly. Instructions will follow on how to apply these functions to the chatbot implementation as well.
 
 ## More info
 
